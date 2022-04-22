@@ -1,0 +1,33 @@
+{
+  "people": [
+    {
+      "name": "Irfan",
+      "age": 25
+    },
+    {
+      "name": "Saif",
+      "age": 24
+    },
+
+    {
+      "name": "Kamran",
+      "age": 21
+    },
+
+    {
+        "name": "Tahir",
+        "age": 21
+    },
+
+    {
+      "name": "Saleem",
+      "age": 28
+  },
+  {
+    "name": "Ankit",
+    "age": 24
+  }
+
+
+  ]
+}
